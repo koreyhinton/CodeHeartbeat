@@ -9,5 +9,5 @@ Editors are taken from [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_t
 
 
 ![](TextEditors.png)
-matplotlib graph of [text editors heartbeat count](CodeHeartBeat/JobOutput/texteditors_heartbeat_count.txt)
+matplotlib graph of [text editors heartbeat count](CodeHeartbeat/JobOutput/texteditors_heartbeat_count.txt)
 
