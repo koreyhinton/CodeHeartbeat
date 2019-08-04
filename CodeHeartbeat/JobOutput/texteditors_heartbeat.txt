@@ -1,0 +1,1054 @@
+Name,Year
+VEDIT,1980
+VEDIT,1981
+VEDIT,1982
+JOVE,1983
+KEDIT,1983
+VEDIT,1983
+epsilon,1984
+GNU Emacs,1984
+JOVE,1984
+KEDIT,1984
+VEDIT,1984
+epsilon,1985
+GNU Emacs,1985
+JOVE,1985
+KEDIT,1985
+The SemWare Editor,1985
+VEDIT,1985
+epsilon,1986
+GNU Emacs,1986
+JOVE,1986
+KEDIT,1986
+The SemWare Editor,1986
+VEDIT,1986
+epsilon,1987
+GNU Emacs,1987
+JOVE,1987
+KEDIT,1987
+The SemWare Editor,1987
+VEDIT,1987
+epsilon,1988
+GNU Emacs,1988
+JOE,1988
+JOVE,1988
+KEDIT,1988
+SlickEdit,1988
+The SemWare Editor,1988
+VEDIT,1988
+epsilon,1989
+GNU Emacs,1989
+JOE,1989
+JOVE,1989
+KEDIT,1989
+SlickEdit,1989
+The SemWare Editor,1989
+VEDIT,1989
+epsilon,1990
+GNU Emacs,1990
+JOE,1990
+JOVE,1990
+KEDIT,1990
+SlickEdit,1990
+The SemWare Editor,1990
+VEDIT,1990
+epsilon,1991
+GNU Emacs,1991
+JOE,1991
+JOVE,1991
+KEDIT,1991
+NEdit,1991
+SlickEdit,1991
+The SemWare Editor,1991
+VEDIT,1991
+Vim,1991
+XEmacs,1991
+BBEdit,1992
+epsilon,1992
+GNU Emacs,1992
+JED,1992
+JOE,1992
+JOVE,1992
+KEDIT,1992
+MinEd,1992
+NEdit,1992
+SlickEdit,1992
+TextPad,1992
+The SemWare Editor,1992
+VEDIT,1992
+Vim,1992
+XEmacs,1992
+BBEdit,1993
+epsilon,1993
+GNU Emacs,1993
+JED,1993
+JOE,1993
+JOVE,1993
+KEDIT,1993
+MinEd,1993
+ne,1993
+NEdit,1993
+SlickEdit,1993
+TextPad,1993
+The SemWare Editor,1993
+VEDIT,1993
+Vim,1993
+XEmacs,1993
+BBEdit,1994
+epsilon,1994
+GNU Emacs,1994
+JED,1994
+JOE,1994
+JOVE,1994
+KEDIT,1994
+MinEd,1994
+ne,1994
+NEdit,1994
+SlickEdit,1994
+TextPad,1994
+The SemWare Editor,1994
+UltraEdit,1994
+VEDIT,1994
+Vim,1994
+XEmacs,1994
+BBEdit,1995
+epsilon,1995
+GNU Emacs,1995
+JED,1995
+JOE,1995
+JOVE,1995
+KEDIT,1995
+MinEd,1995
+ne,1995
+NEdit,1995
+NoteTab,1995
+SlickEdit,1995
+TextPad,1995
+The SemWare Editor,1995
+UltraEdit,1995
+VEDIT,1995
+Vim,1995
+XEmacs,1995
+BBEdit,1996
+epsilon,1996
+GNU Emacs,1996
+JED,1996
+JOE,1996
+JOVE,1996
+KEDIT,1996
+Leo,1996
+MinEd,1996
+ne,1996
+NEdit,1996
+NoteTab,1996
+SlickEdit,1996
+TextPad,1996
+The SemWare Editor,1996
+UltraEdit,1996
+VEDIT,1996
+Vim,1996
+XEmacs,1996
+BBEdit,1997
+EmEditor,1997
+epsilon,1997
+GNU Emacs,1997
+JED,1997
+JOE,1997
+KEDIT,1997
+LE,1997
+Leo,1997
+MinEd,1997
+ne,1997
+NEdit,1997
+NoteTab,1997
+SlickEdit,1997
+TextPad,1997
+The SemWare Editor,1997
+UltraEdit,1997
+VEDIT,1997
+Vim,1997
+XEmacs,1997
+BBEdit,1998
+EditPlus,1998
+EmEditor,1998
+epsilon,1998
+GNU Emacs,1998
+JED,1998
+jEdit,1998
+JOE,1998
+KEDIT,1998
+LE,1998
+Leo,1998
+MinEd,1998
+ne,1998
+NEdit,1998
+NoteTab,1998
+PolyEdit,1998
+SlickEdit,1998
+TextPad,1998
+The SemWare Editor,1998
+UltraEdit,1998
+VEDIT,1998
+Vim,1998
+XEmacs,1998
+Alphatk,1999
+BBEdit,1999
+Bluefish,1999
+ConTEXT,1999
+Crimson Editor,1999
+EditPlus,1999
+EmEditor,1999
+epsilon,1999
+GNU Emacs,1999
+JED,1999
+jEdit,1999
+JOE,1999
+KEDIT,1999
+LE,1999
+Leo,1999
+Metapad,1999
+MinEd,1999
+Nano,1999
+ne,1999
+NEdit,1999
+NoteTab,1999
+PolyEdit,1999
+SciTE,1999
+SlickEdit,1999
+TextPad,1999
+The SemWare Editor,1999
+UltraEdit,1999
+VEDIT,1999
+Vim,1999
+XEmacs,1999
+Alphatk,2000
+BBEdit,2000
+Bluefish,2000
+ConTEXT,2000
+Crimson Editor,2000
+EditPlus,2000
+EmEditor,2000
+epsilon,2000
+gedit,2000
+GNU Emacs,2000
+JED,2000
+jEdit,2000
+JOE,2000
+Kate,2000
+KEDIT,2000
+KWrite,2000
+LE,2000
+Leo,2000
+Metapad,2000
+MinEd,2000
+Nano,2000
+ne,2000
+NEdit,2000
+NoteTab,2000
+PolyEdit,2000
+SciTE,2000
+SlickEdit,2000
+TextPad,2000
+The SemWare Editor,2000
+UltraEdit,2000
+VEDIT,2000
+Vim,2000
+XEmacs,2000
+Alphatk,2001
+BBEdit,2001
+Bluefish,2001
+ConTEXT,2001
+Crimson Editor,2001
+EditPlus,2001
+EmEditor,2001
+epsilon,2001
+gedit,2001
+GNU Emacs,2001
+JED,2001
+jEdit,2001
+JOE,2001
+Kate,2001
+KEDIT,2001
+Komodo IDE,2001
+KWrite,2001
+LE,2001
+Leo,2001
+Metapad,2001
+MinEd,2001
+Nano,2001
+ne,2001
+NEdit,2001
+NoteTab,2001
+PolyEdit,2001
+SciTE,2001
+SlickEdit,2001
+TED Notepad,2001
+TextEdit,2001
+TextPad,2001
+The SemWare Editor,2001
+UltraEdit,2001
+VEDIT,2001
+Vim,2001
+XEmacs,2001
+Alphatk,2002
+BBEdit,2002
+Bluefish,2002
+ConTEXT,2002
+Crimson Editor,2002
+EditPlus,2002
+EmEditor,2002
+epsilon,2002
+gedit,2002
+GNU Emacs,2002
+JED,2002
+jEdit,2002
+JOE,2002
+Kate,2002
+KEDIT,2002
+Komodo IDE,2002
+KWrite,2002
+LE,2002
+Leo,2002
+Metapad,2002
+MinEd,2002
+Nano,2002
+ne,2002
+NEdit,2002
+NoteTab,2002
+PolyEdit,2002
+PSPad,2002
+SciTE,2002
+SlickEdit,2002
+TED Notepad,2002
+TextEdit,2002
+TextPad,2002
+The SemWare Editor,2002
+UltraEdit,2002
+VEDIT,2002
+Vim,2002
+XEmacs,2002
+AkelPad,2003
+Alphatk,2003
+BBEdit,2003
+Bluefish,2003
+ConTEXT,2003
+Crimson Editor,2003
+EditPlus,2003
+EmEditor,2003
+epsilon,2003
+gedit,2003
+GNU Emacs,2003
+JED,2003
+jEdit,2003
+JOE,2003
+Kate,2003
+KEDIT,2003
+Komodo IDE,2003
+KWrite,2003
+LE,2003
+Leo,2003
+Metapad,2003
+MinEd,2003
+Nano,2003
+ne,2003
+NEdit,2003
+Notepad++,2003
+NoteTab,2003
+PolyEdit,2003
+PSPad,2003
+RText,2003
+SciTE,2003
+SlickEdit,2003
+SubEthaEdit,2003
+TED Notepad,2003
+TextEdit,2003
+TextPad,2003
+TextWrangler,2003
+The SemWare Editor,2003
+UltraEdit,2003
+VEDIT,2003
+Vim,2003
+XEmacs,2003
+AkelPad,2004
+Alphatk,2004
+BBEdit,2004
+Bluefish,2004
+ConTEXT,2004
+Crimson Editor,2004
+EditPlus,2004
+EmEditor,2004
+epsilon,2004
+gedit,2004
+GNU Emacs,2004
+JED,2004
+jEdit,2004
+JOE,2004
+Kate,2004
+KEDIT,2004
+Komodo IDE,2004
+KWrite,2004
+LE,2004
+Leo,2004
+Metapad,2004
+MinEd,2004
+Nano,2004
+ne,2004
+NEdit,2004
+Notepad++,2004
+Notepad2,2004
+NoteTab,2004
+PolyEdit,2004
+PSPad,2004
+RJ TextEd,2004
+RText,2004
+SciTE,2004
+SlickEdit,2004
+Smultron,2004
+SubEthaEdit,2004
+TED Notepad,2004
+TextEdit,2004
+TextMate,2004
+TextPad,2004
+TextWrangler,2004
+The SemWare Editor,2004
+UltraEdit,2004
+VEDIT,2004
+Vim,2004
+XEmacs,2004
+AkelPad,2005
+Aquamacs,2005
+BBEdit,2005
+Bluefish,2005
+ConTEXT,2005
+Crimson Editor,2005
+E Text Editor,2005
+EditPlus,2005
+EmEditor,2005
+epsilon,2005
+Geany,2005
+gedit,2005
+GNU Emacs,2005
+JED,2005
+jEdit,2005
+JOE,2005
+Kate,2005
+KEDIT,2005
+Komodo IDE,2005
+KWrite,2005
+LE,2005
+Leo,2005
+Metapad,2005
+MinEd,2005
+Nano,2005
+ne,2005
+NEdit,2005
+Notepad++,2005
+Notepad2,2005
+NoteTab,2005
+PolyEdit,2005
+PSPad,2005
+RJ TextEd,2005
+RText,2005
+SciTE,2005
+SlickEdit,2005
+Smultron,2005
+SubEthaEdit,2005
+TED Notepad,2005
+TextEdit,2005
+TextMate,2005
+TextPad,2005
+TextWrangler,2005
+The SemWare Editor,2005
+UltraEdit,2005
+VEDIT,2005
+Vim,2005
+XEmacs,2005
+AkelPad,2006
+Aquamacs,2006
+BBEdit,2006
+Bluefish,2006
+ConTEXT,2006
+Crimson Editor,2006
+E Text Editor,2006
+EditPlus,2006
+EmEditor,2006
+epsilon,2006
+Geany,2006
+gedit,2006
+GNU Emacs,2006
+JED,2006
+jEdit,2006
+JOE,2006
+Kate,2006
+KEDIT,2006
+Komodo IDE,2006
+KWrite,2006
+LE,2006
+Leo,2006
+Metapad,2006
+MinEd,2006
+Nano,2006
+ne,2006
+NEdit,2006
+Notepad++,2006
+Notepad2,2006
+NoteTab,2006
+PolyEdit,2006
+PSPad,2006
+RJ TextEd,2006
+RText,2006
+SciTE,2006
+SlickEdit,2006
+Smultron,2006
+SubEthaEdit,2006
+TED Notepad,2006
+TextEdit,2006
+TextMate,2006
+TextPad,2006
+TextWrangler,2006
+UltraEdit,2006
+VEDIT,2006
+Vim,2006
+XEmacs,2006
+AkelPad,2007
+Aquamacs,2007
+BBEdit,2007
+Bluefish,2007
+Coda,2007
+ConTEXT,2007
+Crimson Editor,2007
+E Text Editor,2007
+EditPlus,2007
+Editra,2007
+EmEditor,2007
+epsilon,2007
+Geany,2007
+gedit,2007
+GNU Emacs,2007
+JED,2007
+jEdit,2007
+JOE,2007
+Kate,2007
+KEDIT,2007
+Komodo Edit,2007
+Komodo IDE,2007
+KWrite,2007
+LE,2007
+Leo,2007
+Metapad,2007
+MinEd,2007
+Nano,2007
+ne,2007
+NEdit,2007
+Notepad++,2007
+Notepad2,2007
+NoteTab,2007
+PolyEdit,2007
+PSPad,2007
+Q10,2007
+RJ TextEd,2007
+RText,2007
+SciTE,2007
+SlickEdit,2007
+Smultron,2007
+SubEthaEdit,2007
+TED Notepad,2007
+Textadept,2007
+TextEdit,2007
+TextMate,2007
+TextPad,2007
+TextWrangler,2007
+UltraEdit,2007
+VEDIT,2007
+Vim,2007
+XEmacs,2007
+AkelPad,2008
+Aquamacs,2008
+BBEdit,2008
+Bluefish,2008
+Coda,2008
+ConTEXT,2008
+Crimson Editor,2008
+E Text Editor,2008
+EditPlus,2008
+Editra,2008
+EmEditor,2008
+epsilon,2008
+Geany,2008
+gedit,2008
+GNU Emacs,2008
+JED,2008
+jEdit,2008
+JOE,2008
+Kate,2008
+KEDIT,2008
+Komodo Edit,2008
+Komodo IDE,2008
+KWrite,2008
+LE,2008
+Leo,2008
+Metapad,2008
+MinEd,2008
+Nano,2008
+ne,2008
+NEdit,2008
+Notepad++,2008
+Notepad2,2008
+NoteTab,2008
+PolyEdit,2008
+PSPad,2008
+Q10,2008
+RJ TextEd,2008
+RText,2008
+SciTE,2008
+SlickEdit,2008
+Smultron,2008
+SubEthaEdit,2008
+Sublime Text,2008
+TED Notepad,2008
+Textadept,2008
+TextEdit,2008
+TextMate,2008
+TextPad,2008
+TextWrangler,2008
+UltraEdit,2008
+VEDIT,2008
+Vim,2008
+XEmacs,2008
+AkelPad,2009
+Aquamacs,2009
+BBEdit,2009
+Bluefish,2009
+Coda,2009
+ConTEXT,2009
+E Text Editor,2009
+EditPlus,2009
+Editra,2009
+EmEditor,2009
+epsilon,2009
+Geany,2009
+gedit,2009
+GNU Emacs,2009
+JED,2009
+jEdit,2009
+JOE,2009
+Kate,2009
+KEDIT,2009
+Komodo Edit,2009
+Komodo IDE,2009
+KWrite,2009
+LE,2009
+Leo,2009
+Metapad,2009
+MinEd,2009
+Nano,2009
+ne,2009
+NEdit,2009
+Notepad++,2009
+Notepad2,2009
+NoteTab,2009
+PolyEdit,2009
+PSPad,2009
+Q10,2009
+RJ TextEd,2009
+RText,2009
+SciTE,2009
+SlickEdit,2009
+Smultron,2009
+SubEthaEdit,2009
+Sublime Text,2009
+TED Notepad,2009
+Textadept,2009
+TextEdit,2009
+TextMate,2009
+TextPad,2009
+TextWrangler,2009
+UltraEdit,2009
+VEDIT,2009
+Vim,2009
+XEmacs,2009
+AkelPad,2010
+Aquamacs,2010
+BBEdit,2010
+Bluefish,2010
+Coda,2010
+E Text Editor,2010
+EditPlus,2010
+Editra,2010
+EmEditor,2010
+epsilon,2010
+Geany,2010
+gedit,2010
+GNU Emacs,2010
+jEdit,2010
+JOE,2010
+Kate,2010
+KEDIT,2010
+Komodo Edit,2010
+Komodo IDE,2010
+KWrite,2010
+LE,2010
+Leo,2010
+Metapad,2010
+MinEd,2010
+Nano,2010
+ne,2010
+NEdit,2010
+Notepad++,2010
+Notepad2,2010
+NoteTab,2010
+PolyEdit,2010
+PSPad,2010
+Q10,2010
+RJ TextEd,2010
+RText,2010
+SciTE,2010
+SlickEdit,2010
+Smultron,2010
+SubEthaEdit,2010
+Sublime Text,2010
+TED Notepad,2010
+Textadept,2010
+TextEdit,2010
+TextMate,2010
+TextPad,2010
+TextWrangler,2010
+UltraEdit,2010
+VEDIT,2010
+Vim,2010
+AkelPad,2011
+Aquamacs,2011
+BBEdit,2011
+Bluefish,2011
+Coda,2011
+EditPlus,2011
+Editra,2011
+EmEditor,2011
+epsilon,2011
+Geany,2011
+gedit,2011
+GNU Emacs,2011
+jEdit,2011
+JOE,2011
+Kate,2011
+KEDIT,2011
+Komodo Edit,2011
+Komodo IDE,2011
+KWrite,2011
+LE,2011
+Leo,2011
+Metapad,2011
+MinEd,2011
+Nano,2011
+ne,2011
+NEdit,2011
+Notepad++,2011
+Notepad2,2011
+NoteTab,2011
+PSPad,2011
+Q10,2011
+RJ TextEd,2011
+RText,2011
+SciTE,2011
+SlickEdit,2011
+Smultron,2011
+SubEthaEdit,2011
+Sublime Text,2011
+TED Notepad,2011
+Textadept,2011
+TextEdit,2011
+TextMate,2011
+TextPad,2011
+TextWrangler,2011
+UltraEdit,2011
+VEDIT,2011
+Vim,2011
+AkelPad,2012
+Aquamacs,2012
+BBEdit,2012
+Bluefish,2012
+Brackets,2012
+Coda,2012
+EditPlus,2012
+Editra,2012
+EmEditor,2012
+epsilon,2012
+Geany,2012
+gedit,2012
+GNU Emacs,2012
+jEdit,2012
+JOE,2012
+Kate,2012
+KEDIT,2012
+Komodo Edit,2012
+Komodo IDE,2012
+KWrite,2012
+LE,2012
+Leo,2012
+Light Table,2012
+MinEd,2012
+Nano,2012
+ne,2012
+NEdit,2012
+Notepad++,2012
+NoteTab,2012
+PSPad,2012
+RJ TextEd,2012
+RText,2012
+SciTE,2012
+SlickEdit,2012
+Smultron,2012
+SubEthaEdit,2012
+Sublime Text,2012
+TED Notepad,2012
+Textadept,2012
+TextEdit,2012
+TextMate,2012
+TextPad,2012
+TextWrangler,2012
+UltraEdit,2012
+VEDIT,2012
+Vim,2012
+AkelPad,2013
+Aquamacs,2013
+BBEdit,2013
+Bluefish,2013
+Brackets,2013
+Coda,2013
+EditPlus,2013
+Editra,2013
+EmEditor,2013
+epsilon,2013
+Geany,2013
+gedit,2013
+GNU Emacs,2013
+jEdit,2013
+JOE,2013
+Kate,2013
+KEDIT,2013
+Komodo Edit,2013
+Komodo IDE,2013
+KWrite,2013
+LE,2013
+Leo,2013
+Light Table,2013
+MinEd,2013
+Nano,2013
+ne,2013
+NEdit,2013
+Notepad++,2013
+NoteTab,2013
+PSPad,2013
+RJ TextEd,2013
+RText,2013
+SciTE,2013
+SlickEdit,2013
+Smultron,2013
+SubEthaEdit,2013
+Sublime Text,2013
+TED Notepad,2013
+Textadept,2013
+TextEdit,2013
+TextPad,2013
+TextWrangler,2013
+UltraEdit,2013
+VEDIT,2013
+Vim,2013
+AkelPad,2014
+Aquamacs,2014
+Atom,2014
+BBEdit,2014
+Bluefish,2014
+Brackets,2014
+Coda,2014
+EditPlus,2014
+EmEditor,2014
+epsilon,2014
+Geany,2014
+gedit,2014
+GNU Emacs,2014
+jEdit,2014
+JOE,2014
+Kate,2014
+KEDIT,2014
+Komodo Edit,2014
+Komodo IDE,2014
+KWrite,2014
+LE,2014
+Leo,2014
+Light Table,2014
+MinEd,2014
+Nano,2014
+ne,2014
+NEdit,2014
+Notepad++,2014
+NoteTab,2014
+Peppermint,2014
+PSPad,2014
+RJ TextEd,2014
+RText,2014
+SciTE,2014
+SlickEdit,2014
+Smultron,2014
+SubEthaEdit,2014
+Sublime Text,2014
+TED Notepad,2014
+Textadept,2014
+TextEdit,2014
+TextPad,2014
+TextWrangler,2014
+UltraEdit,2014
+VEDIT,2014
+Vim,2014
+AkelPad,2015
+Aquamacs,2015
+Atom,2015
+BBEdit,2015
+Bluefish,2015
+Brackets,2015
+Coda,2015
+CudaText,2015
+EditPlus,2015
+EmEditor,2015
+epsilon,2015
+Geany,2015
+gedit,2015
+GNU Emacs,2015
+jEdit,2015
+JOE,2015
+Kate,2015
+KEDIT,2015
+Komodo Edit,2015
+Komodo IDE,2015
+KWrite,2015
+LE,2015
+Leo,2015
+Light Table,2015
+MinEd,2015
+Nano,2015
+ne,2015
+NEdit,2015
+Notepad++,2015
+PSPad,2015
+RJ TextEd,2015
+RText,2015
+SciTE,2015
+SlickEdit,2015
+Smultron,2015
+SubEthaEdit,2015
+Sublime Text,2015
+TED Notepad,2015
+Textadept,2015
+TextEdit,2015
+TextPad,2015
+TextWrangler,2015
+UltraEdit,2015
+VEDIT,2015
+Vim,2015
+Visual Studio Code,2015
+AkelPad,2016
+Aquamacs,2016
+Atom,2016
+BBEdit,2016
+Bluefish,2016
+Brackets,2016
+Coda,2016
+CudaText,2016
+EditPlus,2016
+EmEditor,2016
+epsilon,2016
+Geany,2016
+gedit,2016
+GNU Emacs,2016
+jEdit,2016
+JOE,2016
+Kate,2016
+KEDIT,2016
+Komodo Edit,2016
+Komodo IDE,2016
+KWrite,2016
+LE,2016
+Leo,2016
+Light Table,2016
+Nano,2016
+ne,2016
+NEdit,2016
+Notepad++,2016
+PSPad,2016
+RJ TextEd,2016
+RText,2016
+SciTE,2016
+SlickEdit,2016
+Smultron,2016
+Sublime Text,2016
+TED Notepad,2016
+Textadept,2016
+TextEdit,2016
+TextPad,2016
+TextWrangler,2016
+UltraEdit,2016
+Vim,2016
+Visual Studio Code,2016
+Atom,2017
+BBEdit,2017
+Bluefish,2017
+Brackets,2017
+Coda,2017
+CudaText,2017
+EditPlus,2017
+EmEditor,2017
+Geany,2017
+gedit,2017
+GNU Emacs,2017
+jEdit,2017
+JOE,2017
+Kate,2017
+Komodo Edit,2017
+Komodo IDE,2017
+KWrite,2017
+Leo,2017
+Nano,2017
+ne,2017
+NEdit,2017
+Notepad++,2017
+PSPad,2017
+RJ TextEd,2017
+RText,2017
+SciTE,2017
+SlickEdit,2017
+Smultron,2017
+Sublime Text,2017
+Textadept,2017
+TextEdit,2017
+TextPad,2017
+UltraEdit,2017
+Vim,2017
+Visual Studio Code,2017
+Atom,2018
+BBEdit,2018
+Brackets,2018
+CudaText,2018
+EditPlus,2018
+EmEditor,2018
+Geany,2018
+gedit,2018
+GNU Emacs,2018
+JOE,2018
+Kate,2018
+Leo,2018
+Nano,2018
+Notepad++,2018
+PSPad,2018
+RJ TextEd,2018
+SciTE,2018
+SlickEdit,2018
+Sublime Text,2018
+UltraEdit,2018
+Vim,2018
+Visual Studio Code,2018
+Atom,2019
+EmEditor,2019
+Nano,2019
+Notepad++,2019
+Sublime Text,2019
+Visual Studio Code,2019

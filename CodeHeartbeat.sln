@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CodeHeartbeat", "CodeHeartbeat\CodeHeartbeat.dtproj", "{2FD81C70-CA49-499C-B911-2942423F68F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD81C70-CA49-499C-B911-2942423F68F2}.Development|Default.ActiveCfg = Development
+		{2FD81C70-CA49-499C-B911-2942423F68F2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FC3920-2510-4306-8005-1E8B07C1C469}
+	EndGlobalSection
+EndGlobal
